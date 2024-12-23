@@ -1,0 +1,19 @@
+
+W
+java:S1141 "5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ8©Âì–¿2
+›
+java:S1598"~This file "ServerUDP.java" should be located in "package1" directory, not in "C:\Users\Asus\Desktop\NetWork 101\untitled\src".(İ¡ıü8³Âì–¿2
+]
+java:S6213„":Rename this variable to not match a restricted identifier.(›Ú¦ıÿÿÿÿ8…Éì–¿2
+]
+java:S6213":Rename this variable to not match a restricted identifier.(›Ú¦ıÿÿÿÿ8œÉì–¿2
+]	java:S899©";Do something with the "boolean" value returned by "delete".(²Œ­ûÿÿÿÿ8ŸÉì–¿2
+q
+java:S4042©"NUse "java.nio.file.Files#delete" here for better messages on error conditions.(²Œ­ûÿÿÿÿ8ŸÉì–¿2
+_	java:S899ª"=Do something with the "boolean" value returned by "renameTo".(‰¢è½ıÿÿÿÿ8 Éì–¿2
+]
+java:S6213¸":Rename this variable to not match a restricted identifier.(›Ú¦ıÿÿÿÿ8¦Éì–¿2
+]	java:S899Ã";Do something with the "boolean" value returned by "delete".(²Œ­ûÿÿÿÿ8ªÉì–¿2
+q
+java:S4042Ã"NUse "java.nio.file.Files#delete" here for better messages on error conditions.(²Œ­ûÿÿÿÿ8«Éì–¿2
+_	java:S899Ä"=Do something with the "boolean" value returned by "renameTo".(‰¢è½ıÿÿÿÿ8¬Éì–¿2

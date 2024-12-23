@@ -1,0 +1,20 @@
+
+z	java:S135"YReduce the total number of break and continue statements in this loop to use at most one.(˜ïˆÿÿÿÿÿ8Å¼–—¿2
+W
+java:S1141"5Extract this nested try block into a separate method.(ğ€Õ¸ÿÿÿÿÿ8Æ¼–—¿2
+W
+java:S1141>"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ8Æ¼–—¿2
+]
+java:S6213´":Rename this variable to not match a restricted identifier.(›Ú¦ıÿÿÿÿ8Ó¾–—¿2
+]
+java:S6213Î":Rename this variable to not match a restricted identifier.(›Ú¦ıÿÿÿÿ8Ü¾–—¿2
+]	java:S899Ú";Do something with the "boolean" value returned by "delete".(²Œ­ûÿÿÿÿ8Ş¾–—¿2
+q
+java:S4042Ú"NUse "java.nio.file.Files#delete" here for better messages on error conditions.(²Œ­ûÿÿÿÿ8ß¾–—¿2
+_	java:S899Û"=Do something with the "boolean" value returned by "renameTo".(‰¢è½ıÿÿÿÿ8ß¾–—¿2
+]
+java:S6213é":Rename this variable to not match a restricted identifier.(›Ú¦ıÿÿÿÿ8ä¾–—¿2
+]	java:S899ô";Do something with the "boolean" value returned by "delete".(²Œ­ûÿÿÿÿ8é¾–—¿2
+q
+java:S4042ô"NUse "java.nio.file.Files#delete" here for better messages on error conditions.(²Œ­ûÿÿÿÿ8é¾–—¿2
+_	java:S899õ"=Do something with the "boolean" value returned by "renameTo".(‰¢è½ıÿÿÿÿ8ê¾–—¿2
